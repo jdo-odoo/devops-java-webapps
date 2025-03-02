@@ -1,3 +1,3 @@
 #!/bin/bash
-cd /opt/tomcat/bin
-./startup.sh
+sudo cd /opt/tomcat/bin
+sudo ./startup.sh
